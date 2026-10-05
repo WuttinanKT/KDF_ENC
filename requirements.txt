@@ -1,0 +1,2 @@
+argon2-cffi>=23.1.0,<26
+cryptography>=43,<50

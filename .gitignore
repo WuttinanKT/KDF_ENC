@@ -1,0 +1,4 @@
+.venv/
+__pycache__/
+vault.json
+encrypted_google_password.json
